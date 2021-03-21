@@ -7,7 +7,7 @@
 ---
 
 ### Known Data
-<img src="media/image1.jpg" width = "700" align="center">
+<img src="media/image1.tif" width = "700" align="center">
 
 #### a) Fill in discount curve, zero curve, forward curve
 
