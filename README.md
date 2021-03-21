@@ -23,7 +23,7 @@ PV of the bond cash flows can be calculated with discount curve:
 
 The color is red if there is a change. With the formula for duration, the DV01 and Duration can be  obtained as below:
 
-<img src="media/image4.png" width = "600" align="center">
+<img src="media/image10.png" width = "600" align="center">
 
 <img src="media/image5.png" width = "600" align="center">
 
