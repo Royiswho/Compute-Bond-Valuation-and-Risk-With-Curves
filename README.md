@@ -7,11 +7,11 @@
 ---
 
 ### Known Data
-<img src="media/image1.png" width = "700" align="center">
+<img src="media/image1.jpg" width = "700" align="center">
 
 #### a) Fill in discount curve, zero curve, forward curve
 
-<img src="media/image2.png" width = "700" align="center">
+<img src="media/image2.jpg" width = "700" align="center">
 
 #### b) Compute the PV of the bond cash flows
 
