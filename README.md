@@ -17,7 +17,7 @@
 
 PV of the bond cash flows can be calculated with discount curve:
 
-<img src="media/image3.png" align="center">
+<img src="media/image3.png" width = "200" align="center">
 
 #### c) Change the forward curve by +0.5% (at each maturity one at a time) and compute the discount factors and PV, DV01, duration of the bond for each case. Which forward change has the highest DV01?
 
@@ -25,7 +25,7 @@ The color is red if there is a change. With the formula for duration, the DV01 a
 
 <img src="media/image10.png" width = "600" align="center">
 
-<img src="media/image5.png" width = "600" align="center">
+<img src="media/image5.png" width = "733" align="center">
 
 From the result above, the highest DV01 is the last one, which is 0.08344724.
 
@@ -37,8 +37,8 @@ From the result above, the highest DV01 is the last one, which is 0.08344724.
 
 <img src="media/image9.png" width = "500" align="center">
 
-<img src="media/image7.png" align="center">
+<img src="media/image7.png" width = "150" align="center">
 
 ### f) Compute the duration of the bond
 
-<img src="media/image8.png" align="center">
+<img src="media/image8.png" width = "140" align="center">
