@@ -35,7 +35,7 @@ From the result above, the highest DV01 is the last one, which is 0.08344724.
 
 ### e) What is the forward price of the bond 18 months from today?
 
-<img src="media/image9.png" width = "500" align="center">
+<img src="media/image9.png" width = "530" align="center">
 
 <img src="media/image7.png" width = "140" align="center">
 
