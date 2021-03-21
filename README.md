@@ -7,11 +7,11 @@
 ---
 
 ### Known Data
-<img src="media/image1.png" width = "400" align="center">
+<img src="media/image1.png" width = "700" align="center">
 
 #### a) Fill in discount curve, zero curve, forward curve
 
-<img src="media/image2.png" width = "400" align="center">
+<img src="media/image2.png" width = "700" align="center">
 
 #### b) Compute the PV of the bond cash flows
 
@@ -34,9 +34,7 @@ From the result above, the highest DV01 is the last one, which is 0.08344724.
 
 The discount factor d(1.5) can be calculated by the linear interpolation.
 
-$$
-d(1.5) = \frac{d(1) + d(2)}{2} = 0.9703
-$$
+<img src="media/image9.png" width = "400" align="center">
 
 <img src="media/image7.png" width = "400" align="center">
 
