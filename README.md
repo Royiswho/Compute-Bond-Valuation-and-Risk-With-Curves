@@ -7,16 +7,16 @@
 ---
 
 ### Known Data
-<img src="media/image1.tif" width = "700" align="center">
+<img src="media/image1.png" width = "500" align="center">
 
 #### a) Fill in discount curve, zero curve, forward curve
 
-<img src="media/image2.jpg" width = "700" align="center">
+<img src="media/image2.png" width = "500" align="center">
 
 #### b) Compute the PV of the bond cash flows
 
 PV of the bond cash flows can be calculated with discount curve:
-<img src="media/image3.png" width = "400" align="center">
+<img src="media/image3.png" width = "100" align="center">
 
 #### c) Change the forward curve by +0.5% (at each maturity one at a time) and compute the discount factors and PV, DV01, duration of the bond for each case. Which forward change has the highest DV01?
 
