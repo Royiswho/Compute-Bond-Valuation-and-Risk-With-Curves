@@ -1,4 +1,4 @@
-# Estimate Bond Valuation and Risk with Discount Curve, Zero Curve, Forward Curve
+# Compute Bond Valuation and Risk with Discount Curve, Zero Curve, Forward Curve
 
 ### author: Yi Rong
 ### date: 03/21/21
