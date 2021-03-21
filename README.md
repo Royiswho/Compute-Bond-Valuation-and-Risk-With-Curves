@@ -23,9 +23,9 @@ PV of the bond cash flows can be calculated with discount curve:
 
 The color is red if there is a change. With the formula for duration, the DV01 and Duration can be  obtained as below:
 
-<img src="media/image10.png" width = "600" align="center">
+<img src="media/image10.png" width = "500" align="center">
 
-<img src="media/image5.png" width = "733" align="center">
+<img src="media/image5.png" width = "611" align="center">
 
 From the result above, the highest DV01 is the last one, which is 0.08344724.
 
@@ -37,8 +37,8 @@ From the result above, the highest DV01 is the last one, which is 0.08344724.
 
 <img src="media/image9.png" width = "500" align="center">
 
-<img src="media/image7.png" width = "150" align="center">
+<img src="media/image7.png" width = "140" align="center">
 
 ### f) Compute the duration of the bond
 
-<img src="media/image8.png" width = "140" align="center">
+<img src="media/image8.png" width = "130" align="center">
